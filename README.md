@@ -13,9 +13,10 @@
 - 5%  神秘Bug  
 
 💡 **用途说明**  
-- 用于探索 unity 相关的个人学习资源。
 - 随手保存的代码片段回收中心  
 - 学习如何优雅注释掉报错
+- 用于探索 unity 相关的个人学习资源。
+- 学习 UVCS 中的 [GitSync](https://docs.unity.com/ugs/en-us/manual/devops/manual/migrating-from-git#intro) 是如何工作的
 
 🙌 **访客须知**  
 - 自由克隆/魔改/删除  
